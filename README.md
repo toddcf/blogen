@@ -2,9 +2,7 @@
 
 A multipage, mobile-responsive UI for a blogging system.
 
-## This Iteration:
-
-1. Add image to README.
+![Blogen](https://github.com/toddcf/blogen/blob/master/src/favicon/b-logo.png "Blogen")
 
 ## Technologies Used
 
