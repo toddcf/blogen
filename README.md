@@ -1,11 +1,10 @@
 # Blogen
 
-A multipage, mobile-responsive blogging system.
+A multipage, mobile-responsive UI for a blogging system.
 
-## This Iteration
+## This Iteration:
 
-1. Add favicon.
-2. Add image to README.
+1. Add image to README.
 
 ## Technologies Used
 
