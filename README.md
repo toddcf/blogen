@@ -11,3 +11,4 @@ A multipage, mobile-responsive UI for a blogging system.
 - SCSS
 - jQuery
 - Gulp
+- CK Editor
